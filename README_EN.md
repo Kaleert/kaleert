@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/kaleert-cat.png" width="440" alt="Cat with a laptop">
+<img src="assets/kaleert-cat.svg" width="440" alt="Cat with a laptop">
 
 # Hey, I'm Kaleert 👋
 
