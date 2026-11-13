@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/kaleert-cat.png" width="440" alt="Кот за ноутбуком">
+<img src="assets/kaleert-cat.svg" width="440" alt="Кот за ноутбуком">
 
 # Привет, я Kaleert 👋
 
